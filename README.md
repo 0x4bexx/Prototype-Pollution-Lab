@@ -47,7 +47,7 @@ This verification ensures that the property belongs to the user object itself in
 ## Running the Lab
 
 ```bash
-node prototype-pollution.js
+node lab.js
 ```
 
 ## Learning Notes
